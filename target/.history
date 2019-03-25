@@ -1,0 +1,12 @@
+sbt
+boot
+scala
+alias
+eval
+exit
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Rishi/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Rishi/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+all {file:/C:/ProgrammingAssessment/}programmingassessment/products {file:/C:/ProgrammingAssessment/}programmingassessment/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Rishi/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Rishi/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/ProgrammingAssessment/}programmingassessment/products {file:/C:/ProgrammingAssessment/}programmingassessment/test:products

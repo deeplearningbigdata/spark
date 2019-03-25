@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\ProgrammingAssessment\src\main\scala\DataSQL.scala:24:5: not found: value setupLogging[0m
+[0m[[0m[31merror[0m] [0m[0m    setupLogging()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\ProgrammingAssessment\src\main\scala\DataSQL.scala:27:19: not found: value apacheLogPattern[0m
+[0m[[0m[31merror[0m] [0m[0m    val pattern = apacheLogPattern()[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
